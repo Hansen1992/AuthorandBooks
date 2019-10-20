@@ -2,7 +2,7 @@
   "name": "authorandbook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Hansen1992.github.io/AuthorsAndBooks",
+  "homepage": "https://Hansen1992.github.io/AuthorsAndBooks/",
   "dependencies": {
     "axios": "^0.19.0",
     "gh-pages": "^2.1.1",
