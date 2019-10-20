@@ -1,0 +1,1 @@
+{"version":3,"sources":["Book.css"],"names":[],"mappings":"AAAA,YACI,kBAAmB,CACnB,wBAAyB,CACzB,UAAc,CACd,wBACJ","file":"main.6f744c4c.chunk.css","sourcesContent":["#segment-ui {\r\n    margin-bottom: 20px;\r\n    background-color: #34495e;\r\n    color: #ffffff;\r\n    text-transform: lowercase;\r\n}"]}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AuthorsAndBooks/static/css/main.6f744c4c.chunk.css",
+    "main.js": "/AuthorsAndBooks/static/js/main.30c4ad4b.chunk.js",
+    "main.js.map": "/AuthorsAndBooks/static/js/main.30c4ad4b.chunk.js.map",
+    "runtime-main.js": "/AuthorsAndBooks/static/js/runtime-main.4eef00a3.js",
+    "runtime-main.js.map": "/AuthorsAndBooks/static/js/runtime-main.4eef00a3.js.map",
+    "static/js/2.16fd842a.chunk.js": "/AuthorsAndBooks/static/js/2.16fd842a.chunk.js",
+    "static/js/2.16fd842a.chunk.js.map": "/AuthorsAndBooks/static/js/2.16fd842a.chunk.js.map",
+    "index.html": "/AuthorsAndBooks/index.html",
+    "precache-manifest.08c3f293ecaea35b3827fce361c7dba9.js": "/AuthorsAndBooks/precache-manifest.08c3f293ecaea35b3827fce361c7dba9.js",
+    "service-worker.js": "/AuthorsAndBooks/service-worker.js",
+    "static/css/main.6f744c4c.chunk.css.map": "/AuthorsAndBooks/static/css/main.6f744c4c.chunk.css.map"
+  }
+}
